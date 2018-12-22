@@ -1,0 +1,25 @@
+{
+  "name": "FriendFinder",
+  "version": "1.0.0",
+  "description": "Homework10",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/renaqusai/FriendFinder.git"
+  },
+  "keywords": [],
+  "author": "Tyler Mitchell",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/renaqusai/FriendFinder/issues"
+  },
+  "homepage": "https://github.com/renaqusai/FriendFinder#readme",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2"
+  }
+}
