@@ -1,6 +1,6 @@
 var friends = [
 	{
-		name: 'Bob',
+		name: 'Ali',
 		pic: 'http://i0.kym-cdn.com/entries/icons/original/000/014/700/how-to-draw-bob-bobs-burgers_1_000000007041_5.jpg',
 		surveyResults: [
 			'1',
@@ -16,7 +16,7 @@ var friends = [
 		]
 	},
 	{
-		name: 'Cartman',
+		name: 'Salem',
 		pic: 'https://consequenceofsound.files.wordpress.com/2017/08/gkhjzfp.jpg?quality=80&w=807',
 		surveyResults: [
 			'2',
@@ -32,7 +32,7 @@ var friends = [
 		]
 	},
 	{
-		name: 'Morty',
+		name: 'Murat',
 		pic: 'https://i.dgif.co/gifs/rm49/O/rm49.gif',
 		surveyResults: [
 			'3',
@@ -64,8 +64,8 @@ var friends = [
 		]
 	},
 	{
-		name: 'Saurai Jack',
-		pic: 'http://nerdist.com/wp-content/uploads/2016/07/Samurai-Jack-2016.jpg',
+		name: 'Aladdeen',
+		pic: 'https://www.google.com/url?sa=i&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwjc0q-q9rLfAhWkCjQIHUONAHgQjRx6BAgBEAU&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FAladdin_(Disney_character)&psig=AOvVaw0VLW1WqCSQxC8P8TtKb437&ust=1545550463731852',
 		surveyResults: [
 			'5',
 			'5',
